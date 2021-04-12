@@ -4,3 +4,6 @@
 - Hadoop
   	- 第一章
   	- 第二章
+- 其他
+    - [力扣刷题](https://leetcode-cn.com/problemset/all/)  	
+  	
