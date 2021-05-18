@@ -6,6 +6,7 @@
   	- 第二章
 - 其他
     - [力扣刷题](https://leetcode-cn.com/problemset/all/)  
-    - [大数据论坛](https://bbs.csdn.net/forums/hadoop/)  
+    - [大数据论坛](https://bbs.csdn.net/forums/hadoop/)
+    - [极客时间](https://time.geekbang.org/dashboard/usercenter)
 
   	
