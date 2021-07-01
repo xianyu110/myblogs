@@ -8,5 +8,8 @@
     - [力扣刷题](https://leetcode-cn.com/problemset/all/)  
     - [大数据论坛](https://bbs.csdn.net/forums/hadoop/)
     - [极客时间](https://time.geekbang.org/dashboard/usercenter)
+    - [永远跟着党走](https://tv.cctv.com/live/cctv13/)
+
+
 
   	
